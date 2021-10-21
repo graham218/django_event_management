@@ -1,0 +1,1 @@
+# django_event_management
